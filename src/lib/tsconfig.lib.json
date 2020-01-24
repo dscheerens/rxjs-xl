@@ -1,0 +1,11 @@
+{
+    "extends": "../../tsconfig.json",
+    "compilerOptions": {
+        "module": "commonjs",
+        "importHelpers": true,
+        "declaration": true,
+        "sourceMap": false,
+        "target": "es5",
+        "outDir": "../../build/dist"
+    }
+}
